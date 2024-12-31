@@ -9,6 +9,7 @@ body {
     width: 320px;
     margin: 230.5px auto;
     padding-top: 16px;
+    padding-bottom: 16px;
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
@@ -23,7 +24,7 @@ body {
 
 .text {
     width: 256px;
-    margin: 16px auto;
+    margin: 0 auto;
 }
 
 .bold {
